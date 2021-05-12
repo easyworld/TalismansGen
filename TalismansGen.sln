@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalismansGen", "TalismansGen\TalismansGen.csproj", "{8C42C2FA-CC8D-4452-8FC7-E75F49CFBDF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C42C2FA-CC8D-4452-8FC7-E75F49CFBDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C42C2FA-CC8D-4452-8FC7-E75F49CFBDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C42C2FA-CC8D-4452-8FC7-E75F49CFBDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C42C2FA-CC8D-4452-8FC7-E75F49CFBDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69018110-B2D9-4249-8409-AF9528940D49}
+	EndGlobalSection
+EndGlobal
